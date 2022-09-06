@@ -157,7 +157,7 @@ def banner():
 	cik2=mark(wel ,style='green')
 	sol().print(cik2)
 	ban='''
-•   AUTHOR : AOREC-XD WHATSAPP : 081908010667   •
+•   AUTHOR : RAHAT-XD WHATSAPP : 01307536093   •
 •   
  ____  ____  _     ____  _____ 
 /  __\/  _ \/ \ /|/  _ \/__ __\
